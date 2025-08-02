@@ -15,7 +15,7 @@ Type A, a bit neurotic <br>
 - **What I do:** Build data-driven solutions, currently AI solutions (I hate that this is trending right now 🙄)
 - **Hobbies:** Trained in tennis, love squash & swimming. I love to sing. Boxing and surfing are on the list. For now? Aiming at being a Pilates/gym girly.
 
-<br>Some recent sprinkles ✨: Top Voice Badge on LinkedIn
+<br>Some recent sprinkles ✨: Top Voice Badge on LinkedIn (https://www.linkedin.com/in/anamikabharali/)
 <p align="center">
   <img src="Achievements1.JPG" alt="Snapshot" width="500">
 </p>
