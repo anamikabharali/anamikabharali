@@ -5,7 +5,9 @@
 I’m an engineer at heart: I hate fixing the same problem twice and will happily spend extra time to fix it well once. Future entrepreneur - naturally, I love studying businesses and what drives them. <br>
 In love with experimentation — whether it’s with data, ideas, or biohacking solutions.<br> 
 Type A, a bit neurotic <br>
-![Image](Github_readme_1.jpg)
+<p align="center">
+  <img src="Github_readme_1.jpg" alt="Snapshot" width="500">
+</p>
 - **Background:** MS in Computer Software Engineering (Northeastern University)
 - **Experience:** 4 years as a Data Scientist / AI explorer with Amazon, Tata, and now Humanitarians AI
 - **What I do:** Build data-driven solutions, currently AI solutions (I hate that this is trending right now 🙄)
