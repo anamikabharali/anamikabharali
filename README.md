@@ -8,9 +8,13 @@ Type A, a bit neurotic <br>
 <p align="center">
   <img src="Github_readme_1.jpg" alt="Snapshot" width="500">
 </p>
+
 - **Background:** MS in Computer Software Engineering (Northeastern University)
 - **Experience:** 4 years as a Data Scientist / AI explorer with Amazon, Tata, and now Humanitarians AI
 - **What I do:** Build data-driven solutions, currently AI solutions (I hate that this is trending right now 🙄)
 - **Hobbies:** Trained in tennis, love squash & swimming. I love to sing. Boxing and surfing are on the list. For now? Aiming at being a Pilates/gym girly.
-<br>Some recent sprinkles ✨:
-![Top Voice Badge](Achievements1.JPG)
+
+<br>Some recent sprinkles ✨: Top Voice Badge on LinkedIn
+<p align="center">
+  <img src="Achievements1.JPG" alt="Snapshot" width="500">
+</p>
