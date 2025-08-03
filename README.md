@@ -2,10 +2,13 @@
 
 "Life is a climb, but the view is great!"
 
-I’m an engineer at heart: I hate fixing the same problem twice and will happily spend extra time to fix it well once. 
-<br> Future entrepreneur - naturally, I love studying businesses and what drives them. <br>
-In love with experimentation — whether it’s with data, ideas, or biohacking solutions.<br> 
+
 Type A, a bit neurotic, fast-paced  <br>
+In love with experimentation — whether it’s with data, ideas, or biohacking solutions.<br> 
+I’m an engineer at heart: I hate fixing the same problem twice and will happily spend extra time to fix it well once. 
+<br>I love studying businesses and what drives them. <br>
+
+
 <p align="center">
   <img src="Github_readme_1.jpg" alt="Snapshot" width="500">
 </p>
