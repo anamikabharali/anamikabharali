@@ -13,7 +13,7 @@ I’m an engineer at heart: I hate fixing the same problem twice and will happil
 - **Background:** MS in Computer Software Engineering (Northeastern University)
 - **Experience:** 4 years as a Data Scientist / AI explorer with Amazon, Tata, and now Humanitarians AI
 - **What I do:** Build data-driven solutions, currently AI solutions as per the requirements of businesses
-- **Hobbies:** Trained in tennis, love squash & swimming. I love to sing. Boxing and surfing are on the list. For now? Aiming at being a Pilates/gym girly.
+- **Hobbies:** Trained in tennis (Played state-level and university Varsity), love squash & swimming. I love to sing. Boxing and surfing are on the list. For now? Aiming at being a Pilates/gym girly.
 
 <br>Some recent sparkles ✨: Top Voice Badge on LinkedIn (https://www.linkedin.com/in/anamikabharali/)
 <p align="center">
