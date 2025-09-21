@@ -10,7 +10,7 @@ I’m an engineer at heart: I hate fixing the same problem twice and will happil
   <img src="Github_readme_1.jpg" alt="Snapshot" width="500">
 </p>
 
-- **Background:** MS in Computer Software Engineering (Northeastern University)
+- **Background:** MS in Computer Software Engineering (Northeastern University, Boston)
 - **Experience:** 4 years as a Data Scientist / AI explorer with Amazon, Tata, and now Humanitarians AI
 - **What I do:** Build data-driven solutions, currently AI solutions as per the requirements of businesses
 - **Hobbies:** Trained in tennis (Played state-level and university Varsity), love squash & swimming. I love to sing. Boxing and surfing are on the list. For now? Aiming at being a Pilates/gym girly.
