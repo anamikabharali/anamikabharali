@@ -11,7 +11,7 @@ I’m an engineer at heart: I hate fixing the same problem twice and will happil
 </p>
 
 - **Background:** MS in Computer Software Engineering (Northeastern University, Boston)
-- **Experience:** 4 years as a Data Scientist / AI explorer with Amazon, Tata, and now Humanitarians AI
+- **Experience:** 4 years in Data Science, Analytics, Business Strategy and Product / AI explorer with Amazon, Tata, and now Humanitarians AI
 - **What I do:** Build data-driven solutions, currently AI solutions as per the requirements of businesses
 - **Hobbies:** Trained in tennis (Played state-level and university Varsity), love squash & swimming. I love to sing. Boxing and surfing are on the list. For now? Aiming at being a Pilates/gym girly.
 
